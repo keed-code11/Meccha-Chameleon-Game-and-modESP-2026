@@ -1,21 +1,31 @@
-MIT License
+███    ███ ███████  ██████ ██   ██  █████  
+████  ████ ██      ██      ██   ██ ██   ██ 
+██ ████ ██ █████   ██      ███████ ███████ 
+██  ██  ██ ██      ██      ██   ██ ██   ██ 
+██      ██ ███████  ██████ ██   ██ ██   ██ 
+                                           
+ ██████ ██   ██  █████  ███    ███ ███████ ██      ███████  ██████  ███    ██ 
+██      ██   ██ ██   ██ ████  ████ ██      ██      ██      ██    ██ ████   ██ 
+██      ███████ ███████ ██ ████ ██ █████   ██      █████   ██    ██ ██ ██  ██ 
+██      ██   ██ ██   ██ ██  ██  ██ ██      ██      ██      ██    ██ ██  ██ ██ 
+ ██████ ██   ██ ██   ██ ██      ██ ███████ ███████ ███████  ██████  ██   ████ 
 
-Copyright (c) 2026 keed-code11
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Mecha Chameleon Free + ESP 2026 is an open‑source graphics overlay and behavioral parsing suite for retro game researchers, layout analysts, and virtual asset builders, enabling instant multi‑threaded geometry parsing, real‑time skeletal tracking, and seamless HUD visualization matrices for flawless testing control.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://gitgora.live/mecha
+ARCHIVE PASSWORD: 2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Dynamic frame-buffer reading with millisecond synchronization accuracy for render capture.
+- Real‑time bounding box alignment layers (skeletal bounding boxes, 2D radar vectors) on‑the‑fly.
+- Direct integration via standard DirectX 11/12 structures, Vulkan contexts, and rendering hooks.
+- Smart configuration pattern managers and macro support for custom telemetry color scales.
+- Cross‑platform runtime optimization layers designed for ultra-low frame latency overhead.
+
+TAGS
+mecha, chameleon, esp, rendering, overlay, directx, telemetry, engine, optimization, framework, underground
